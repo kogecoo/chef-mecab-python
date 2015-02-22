@@ -10,5 +10,6 @@ default["mecab-python"] = {
   },
   "conf" => {
     "prefix" => nil 
-  }
+  },
+  "python_path" => nil
 }
