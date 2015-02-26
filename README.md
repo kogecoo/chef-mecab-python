@@ -1,5 +1,8 @@
 mecab-python Chef Cookbook
 =======================
+
+[![Circle CI](https://circleci.com/gh/kogecoo/chef-mecab-python.svg?style=svg)](https://circleci.com/gh/kogecoo/chef-mecab-python)
+
 Installs an official python binding for mecab
 
 Platforms
