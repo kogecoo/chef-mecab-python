@@ -3,6 +3,8 @@ mecab-python Chef Cookbook
 
 [![Circle CI](https://circleci.com/gh/kogecoo/chef-mecab-python.svg?style=svg)](https://circleci.com/gh/kogecoo/chef-mecab-python)
 
+## This recipe is DEPRECATED. It is merged to [chef-mecab](https://circleci.com/gh/kogecoo/chef-mecab) cookbook.
+
 Installs an official python binding for mecab
 
 Platforms
